@@ -3,6 +3,8 @@
 
 This is the front-end / dashboard demo app for the DLUHC National Planning Applications API pilot. In production, this would connect directly to the planning applications database to retrieve and display data. Currently, generated example planning application data is used instead.
 
+Currently available through Streamlit here: https://appmetrics-erxagwcexhdzkr7dezx4rk.streamlit.app/
+
 ## Setup and Deployment
 
 ### Connecting to PostgreSQL Database
